@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![EX NO 1 1](https://github.com/PremkumarG3/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/138955646/2e37d9c3-2764-478c-ba78-0a53e351b66c)
+![EX NO 1 2](https://github.com/PremkumarG3/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/138955646/c87aff55-9645-4138-8784-58d5326c30a8)
 
  
  ## RESULT
